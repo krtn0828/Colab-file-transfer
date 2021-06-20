@@ -11,4 +11,4 @@ Please run the cells in the order of the notebook.
 **Do not edit /content/drive/mydrive/ in the download cell of the file download cell**
 > Example:) To save to the "Sample" folder in Google Drive
 dst : " `/content/drive/Mydrive/Sample/`  "
-# Please write errors and corrections to [issue](https://github.com/krtn0828/Colab-file-transfer/issues).
+# If you encounter errors or problems, please post to [issue](https://github.com/krtn0828/Colab-file-transfer/issues).
