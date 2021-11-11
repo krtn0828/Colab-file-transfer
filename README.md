@@ -16,7 +16,7 @@ dst : " `/content/drive/Mydrive/Sample/`  "
 
 >**Japanese**
 ## 詳細
-Google　Colaboratoryを使用して、インターネット上からファイルをGoogleDriveに保存するためのレポジストリです。
+Google　Colaboratoryを使用して、インターネット上からファイルをGoogleDriveに保存するためのリポジトリです。
 ダウンロードの遅い環境では、Googleドライブを経由してより高速にダウンロードが行えます。
 ## 機能
 ・Googleドライブへのファイル保存
